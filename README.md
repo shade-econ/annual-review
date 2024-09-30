@@ -1,4 +1,4 @@
-# Replication Code for "Fiscal and Monetary Policy with Heterogeneous Agents"
+# Code for "Fiscal and Monetary Policy with Heterogeneous Agents"
 This repository has replication code for ["Fiscal and Monetary Policy with Heterogeneous Agents"](https://web.stanford.edu/~aauclert/annual_review.pdf) (Auclert, Rognlie, Straub 2024), a draft article prepared for the Annual Review of Economics. 
 
 The code is in Python and requires installing the [sequence-space Jacobian toolkit](https://github.com/shade-econ/sequence-jacobian).
